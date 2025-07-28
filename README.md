@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-beta-blue.svg" />
   <img src="https://img.shields.io/badge/platform-ESP8266-green.svg" />
-  <img src="https://img.shields.io/badge/license-MIT-lightgrey.svg" />
+  <img src="https://img.shields.io/badge/license-Studio-lightgrey.svg" />
 </p>
 
 ---
@@ -30,16 +30,3 @@ Kullanıcılar mobil uygulama veya web arayüzü üzerinden cihazları yönetebi
 | Backend       | Google Firebase (RTDB) |
 | Mobil Arayüz  | Android Studio / MIT App Inventor |
 | Protokol      | IR (Kızılötesi)        |
-
-## 🖼️ Örnek Görüntüler
-
-<p align="center">
-  <img src="assets/login_screen.png" alt="Login Ekranı" width="250"/>
-  <img src="assets/control_screen.png" alt="Kontrol Paneli" width="250"/>
-</p>
-
-## 📦 Kurulum
-
-### 1. Repository'yi Klonla
-```bash
-git clone https://github.com/kullaniciAdiniz/SmartCore.git
